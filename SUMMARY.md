@@ -1,4 +1,4 @@
 # Summary
 
-* [Getting Started](voyance/readme.md)
+* [Getting Started](voyance/README.md)
 
