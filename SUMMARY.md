@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](voyance/README.md)
+* [Getting Started](README.md)
 * [Operations Dashboard](voyance/Operations Dashboard.md)
 * [Incidents, Root Causes and Remediations](voyance/Incidents.md)
 * [Reports](voyance/reports.md)
