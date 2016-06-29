@@ -1,5 +1,5 @@
 # Summary
 
 * [Getting Started](voyance/README.md)
-* Operations Dashboard
+* [Operations Dashboard](voyance/Operations Dashboard.md)
 
