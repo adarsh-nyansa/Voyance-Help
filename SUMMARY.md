@@ -1,7 +1,7 @@
 # Summary
 
-# [Nyansa Help Manual](nyansa_help_manual.md)
-## [Getting Started](README.md)
+* [Nyansa Help Manual](nyansa_help_manual.md)
+* [Getting Started](README.md)
   * [Operations Dashboard](voyance/Operations Dashboard.md)
   * [Incidents, Root Causes and Remediations](voyance/Incidents.md)
   * [Reports](voyance/reports.md)
