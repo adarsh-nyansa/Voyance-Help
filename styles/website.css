@@ -1,5 +1,7 @@
 /* CSS for website */
 
+
+
 h1 {
   font-family: roboto, sans-serif;
   font-size: 3em;
@@ -12,6 +14,7 @@ h2 {
 
 table {
   border-style:none;
+  border-color:#000;
 }
 
 p {
@@ -20,6 +23,6 @@ p {
 
 hr {
   border-color: #F5F5F5;
-  border-width: 20px;
+  border-width: 100px;
 }
 
