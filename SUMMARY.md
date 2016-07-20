@@ -11,5 +11,5 @@
 * [Workflow Guides](workflow_guides.md)
    * [Troubleshooting A Client Issue](troubleshooting_a_client_issue.md)
    * [Short-Term Incident Analysis](short-term_incident_analysis.md)
-   * Solving a Systemic Issue
+   * [Solving a Systemic Issue](solving_a_systemic_issue.md)
 
