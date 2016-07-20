@@ -1,7 +1,8 @@
 {
     "plugins": [
         "collapsible-menu",
-        "anchor-navigation"
+        "anchor-navigation",
+        "restructure-navigation"
     ],
     "pluginsConfig": {}
 }
