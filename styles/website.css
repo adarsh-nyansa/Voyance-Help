@@ -3,10 +3,9 @@
 h4 {
   font-family: roboto, sans-serif;
   font-size: 10px;
-  color:blue;
 }
 
-table {
+.table {
   border-style:none;
   border-color:#000;
 }
