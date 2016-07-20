@@ -1,5 +1,5 @@
 ![](nyansa-logo-300.gif)
-# Nyansa Documentation
+# Voyance Documentation
 
 <hr>
 
