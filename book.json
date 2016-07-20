@@ -1,7 +1,7 @@
 {
     "plugins": [
         "collapsible-menu",
-        "comment"
+        "anchor-navigation"
     ],
     "pluginsConfig": {}
 }
