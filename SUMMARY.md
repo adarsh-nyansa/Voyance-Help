@@ -9,4 +9,5 @@
 * [Knowledge Base](knowledge_base.md)
    * [List of Incidents](list_of_incidents.md)
 * [Workflow Guides](workflow_guides.md)
+   * Troubleshooting A Client Issue
 
