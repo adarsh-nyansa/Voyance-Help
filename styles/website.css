@@ -11,8 +11,7 @@ h2 {
 }
 
 table {
-  border:none;
-  border-width: 0px;
+  border-style:none;
 }
 
 p {
