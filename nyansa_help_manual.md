@@ -1,1 +1,2 @@
-# Welcome
+![](nyansa-logo.svg)
+# Nyansa Documentation
