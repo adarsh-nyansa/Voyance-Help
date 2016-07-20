@@ -1,6 +1,12 @@
 /* CSS for website */
 
-.h1 {
+<head>
+<style>
+
+h1 {
   font-family: roboto, sans-serif;
   font-size: 1em;
 }
+
+</style>
+</head>
