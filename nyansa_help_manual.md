@@ -1,6 +1,8 @@
 ![](voyance-logo.png)
 
-<hr>
+
+
+---
 
 ## GETTING STARTED
 |  |  |
