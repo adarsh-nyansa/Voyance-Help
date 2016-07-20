@@ -1,2 +1,1 @@
-# Nyansa Help Manual
-
+Welcome
