@@ -10,5 +10,5 @@
    * [List of Incidents](list_of_incidents.md)
 * [Workflow Guides](workflow_guides.md)
    * [Troubleshooting A Client Issue](troubleshooting_a_client_issue.md)
-   * Short-Term Incident Analysis
+   * [Short-Term Incident Analysis](short-term_incident_analysis.md)
 
