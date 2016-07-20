@@ -2,7 +2,8 @@
     "plugins": [
         "collapsible-menu",
         "anchor-navigation",
-        "restructure-navigation"
+        "restructure-navigation",
+        "structured-toc"
     ],
     "pluginsConfig": {}
 }
