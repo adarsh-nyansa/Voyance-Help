@@ -1,3 +1,4 @@
+<div id="topbar"><a href="http://www.nyansa.com">Nyansa</a> </div>
 # Summary
 
 * [Introduction](nyansa_help_manual.md)
