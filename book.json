@@ -1,7 +1,8 @@
 {
     "plugins": [
         "collapsible-menu",
-        "comments"
+        "comments",
+        "comment"
     ],
     "pluginsConfig": {}
 }
