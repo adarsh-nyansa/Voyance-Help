@@ -1,1 +1,3 @@
-{"Plugins": [ ..., "multipart", ... ]}
+{
+"plugins": [ ..., "multipart", ... ]
+}
