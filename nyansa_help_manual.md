@@ -4,6 +4,5 @@
 <hr>
 
 ## Getting Started
-| Getting Started |
 | -- | -- | -- |
 | Installation Guide | On-boarding Requirements |
