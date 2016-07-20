@@ -5,9 +5,14 @@ h1 {
   font-size: 3em;
 }
 
-h1 {
+h2 {
   font-family: roboto, sans-serif;
   font-size: 1em;
+}
+
+table {
+  border:none;
+  border-width: 0px;
 }
 
 p {
