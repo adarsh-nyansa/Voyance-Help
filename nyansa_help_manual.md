@@ -3,6 +3,6 @@
 
 <hr>
 
-### Getting Started
+### GETTING STARTED
 | -- | -- | -- |
 | Installation Guide | On-boarding Requirements |
