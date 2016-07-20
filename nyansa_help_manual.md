@@ -5,4 +5,4 @@
 ## GETTING STARTED
 |  |  |
 | ------------- |:-------------:| -----:|
-| Installation Guide | On-boarding Requirements |
+| <a href="https://adarshseetharam.gitbooks.io/voyance/content/voyance/Operations%20Dashboard.html">Operations Dashboard</a> | On-boarding Requirements |
