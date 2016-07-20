@@ -3,7 +3,7 @@
         "collapsible-menu",
         "-anchor-navigation",
         "-restructure-navigation",
-        "structured-toc"
+        "-structured-toc"
     ],
     "pluginsConfig": {}
 }
