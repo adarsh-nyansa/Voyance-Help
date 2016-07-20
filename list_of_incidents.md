@@ -21,5 +21,5 @@
 | 16 | DHCP |Clients could not connect due to DHCP issues|
 | 17 | ARP |ARP Protocol/Latency clients issues|
 | 18 | ARP |Clients could not connect due to ARP issues|
-| 16 | DHCP |Clients could not connect due to DHCP issues|
-| 16 | DHCP |Clients could not connect due to DHCP issues|
+| 19 | DHCP |Clients could not connect due to DHCP issues|
+| 20 | DHCP |Clients could not connect due to DHCP issues|
