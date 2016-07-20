@@ -1,5 +1,7 @@
 {
-  "plugins": [
-    "collapsible-menu"
-  ]
+    "plugins": [
+        "collapsible-menu",
+        "comments"
+    ],
+    "pluginsConfig": {}
 }
