@@ -1,6 +1,7 @@
 /* CSS for website */
 
-
+<link rel="stylesheet" href="gitbook-markdown.css">
+<style>
 
 h4 {
   font-family: roboto, sans-serif;
@@ -20,4 +21,6 @@ hr {
   border-color: #000;
   border-width: 2px;
 }
+
+</style>
 
