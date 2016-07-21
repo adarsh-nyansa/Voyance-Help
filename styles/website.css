@@ -33,4 +33,5 @@ color:#A686DA;
 
 .markdown-section table td, .markdown-section table th {
   border:none;
+  display:none;
 }
