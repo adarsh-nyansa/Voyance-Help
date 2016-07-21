@@ -22,4 +22,10 @@ color:#A686DA;
   border:none;
 }
 
+.markdown-section table td {
+  border:none;
+}
 
+.markdown-section table tr {
+  border:none;
+}
