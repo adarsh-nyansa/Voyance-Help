@@ -20,6 +20,7 @@ color:#A686DA;
 
 .markdown-section table thead {
   border:none;
+  display:none;
 }
 
 .markdown-section table td {
@@ -33,5 +34,4 @@ color:#A686DA;
 
 .markdown-section table td, .markdown-section table th {
   border:none;
-  display:none;
 }
