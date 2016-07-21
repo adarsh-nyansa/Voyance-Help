@@ -18,6 +18,6 @@ a {
 color:#A686DA;
 }
 
-table {
+.markdown-section table td, .markdown-section table th {
   border:none;
 }
