@@ -29,3 +29,7 @@ color:#A686DA;
 .markdown-section table tr {
   border:none;
 }
+
+.markdown-section table td, .markdown-section table th {
+  border:none;
+}
