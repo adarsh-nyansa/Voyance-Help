@@ -24,6 +24,7 @@ color:#A686DA;
 
 .markdown-section table td {
   border:none;
+  padding:0;
 }
 
 .markdown-section table tr {
