@@ -18,6 +18,10 @@ a {
 color:#A686DA;
 }
 
+.markdown-section table  {
+  width:75%;
+}
+
 .markdown-section table thead {
   border:none;
   display:none;
